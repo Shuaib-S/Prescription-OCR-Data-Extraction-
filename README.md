@@ -102,11 +102,6 @@ medical-data-extraction
 │
 ├───frontend
 │       app.py              //Streamlit app
-│
-├───Notebooks
-│       01_prescription_parser.ipynb
-│       02_patient_details_parser.ipynb
-│       03_RegEx.ipynb
 │    
 └───reference
         tesseract_papar_by_google.pdf
