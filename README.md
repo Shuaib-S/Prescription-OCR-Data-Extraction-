@@ -40,7 +40,6 @@ We are going to extract some important fields from these documents.
 ![4.jpg](4.jpg)
 
 ### Why this project?
-Though I have been learning Data Science, then why am I doing this project? Mainly there are 3 reasons.
 01. OCR is a subset of Computer Vision. OCR can be used in an NLP project like summarizing text using LLM.
 02. This project involves very fundamental concepts of Python programming like OOP and Modular programming which are industry best practices.
 03. Also this project involves creation of a backend server using FastAPI, which is known for its performance and many world-renowned companies such as Uber, Netflix and Microsoft use FastAPI to build their applications.
